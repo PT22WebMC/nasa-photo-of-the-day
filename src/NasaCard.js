@@ -3,11 +3,12 @@ import styled from 'styled-components'
 
 function NasaCard(props){
   
-    
+   
+
     const Title = styled.h1`
         color: white;
         font-size: 4rem;
-        margin-top: 4%;
+        margin-top: 6%;
 
     `
 

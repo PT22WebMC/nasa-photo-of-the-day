@@ -31,10 +31,8 @@ const [data, setData] = useState([])
   // background-repeat: no-repeat;
   // background-size: cover;
   color: white;
-  height: 100%;
-  width: 100%;
   font-size:1.5rem;
-  margin-top: -3rem;
+  padding-top: .5rem;
   
   
 
