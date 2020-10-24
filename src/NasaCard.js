@@ -7,7 +7,7 @@ function NasaCard(props){
     const Title = styled.h1`
         color: white;
         font-size: 4rem;
-        margin-top: 5.2%;
+        margin-top: 4%;
 
     `
 
