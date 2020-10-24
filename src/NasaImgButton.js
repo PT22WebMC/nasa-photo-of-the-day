@@ -14,6 +14,11 @@ function NasaImgButton(props){
     const ImgButton = styled.button`
 
     margin-bottom: 8%;
+    padding: 10px;
+    background-color:white;
+    // color:white;
+    border: 2px solid black;
+    // border-radius:25px;
 
     `
     return (

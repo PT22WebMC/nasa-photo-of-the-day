@@ -28,8 +28,6 @@ const [data, setData] = useState([])
   const Background = styled.div`
   
   background-image: url('images.jpeg');
-  // background-repeat: no-repeat;
-  // background-size: cover;
   color: white;
   font-size:1.5rem;
   padding-top: .5rem;

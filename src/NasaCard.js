@@ -10,14 +10,19 @@ function NasaCard(props){
         font-size: 4rem;
         margin-top: 6%;
 
+
     `
 
     const Date = styled.h4`
     margin:4%;
     `
     const Explanation = styled.p`
-
+    background-color: black;
+    opacity: .8;
     margin: 10%;
+    border: 1px solid white;
+    padding: 20px;
+    border-radius: 25px;
     `
   
 
